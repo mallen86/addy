@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Addy",
   "author": "Michael Allen",
-  "website": "",
+  "website": "https://github.com/mallen86/addy",
   "model": "addy.tflite",
   "trained_languages": ["en"],
   "version": 2,
